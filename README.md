@@ -6,6 +6,12 @@ This is a guide to help VoiceOver users successfully navigate and use OBS for ma
 
 So, you want to use OBS. You want to stream to Twitch or YouTube or what have you. You downloaded the software. Maybe you even got it through Homebrew. You made sure Rosetta was installed, ran the app, and promptly ran screaming as you were slammed by a wall of laughably inaccessible controls. Don’t be too discouraged. Where there’s a will, there’s a way, and I’m here to show you how to brave the… quirks of this Qt-powered program.
 
+## Useful Resources
+
+- [VoiceOver User Guide for Mac - Apple Support](https://support.apple.com/en-gu/guide/voiceover/welcome/mac)
+
+- [Appendix A. Commands and Gestures](https://www.apple.com/voiceover/info/guide/_1131.html)
+
 ## Before beginning
 
 There are two things we must take care of before proceeding. First off, we’re going to need some software. Second, you must be okay with the fact that you will likely need sighted assistance at some point. If you’re still willing, let us proceed.
