@@ -4,7 +4,7 @@ This is a guide to help VoiceOver users successfully navigate and use OBS for ma
 
 # Getting started
 
-So, you want to use OBS. You want to stream to Twitch or YouTube or what have you. You downloaded the software. Maybe you even got it through Homebrew. You made sure Rosetta was installed, ran the app, and promptly ran screaming as you were slammed by a wall of laughably inaccessible controls. Don’t be too discouraged. Where there’s a will, there’s a way, and I’m here to show you how to brave the… quirks of this QT-powered program.
+So, you want to use OBS. You want to stream to Twitch or YouTube or what have you. You downloaded the software. Maybe you even got it through Homebrew. You made sure Rosetta was installed, ran the app, and promptly ran screaming as you were slammed by a wall of laughably inaccessible controls. Don’t be too discouraged. Where there’s a will, there’s a way, and I’m here to show you how to brave the… quirks of this Qt-powered program.
 
 ## Before beginning
 
