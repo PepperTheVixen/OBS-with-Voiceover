@@ -14,6 +14,12 @@ OBS Studio is open-source software for recording and broadcasting. It's commonly
 - You are using VOCR for optical character recognition (see below)
 - For keyboards without function-row mappings (such as non-Apple desktop keyboards), it is not necessary to press the fn key
 
+## Useful Resources
+
+- [VoiceOver User Guide for Mac - Apple Support](https://support.apple.com/en-gu/guide/voiceover/welcome/mac)
+
+- [Appendix A. Commands and Gestures](https://www.apple.com/voiceover/info/guide/_1131.html)
+
 ## Before beginning
 
 First, you must be okay with the fact that you may need sighted assistance at some point. Some operations, like positioning elements on the canvas cannot be done with Voiceover, and you will need a sighted person to help you. Fortunately, the basics can be done entirely without sight.
